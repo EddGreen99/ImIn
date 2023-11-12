@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4f3053ee4aeeeaa40a143852339927a3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - tile: {instanceID: 0}
+  - connector: {fileID: 8793227519217178998, guid: c5cb39785292afb479a434d0f27956f1, type: 3}
+  - node: {fileID: 3600985478065290013, guid: a88176a2c943421438ed75f72d15353f, type: 3}
+  - camera: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
